@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#A37800;
+  margin:0;
+}
+.page-head{
+  background-color:#A37800;
+  color:#f1efef;
+  font-family:arial;
+  margin:2%;
+}
+.info-body{
+  background-color:#f1efef;
+  width:100%;
+  height:100%;
+}
+.info{
+  font-family:arial;
+  color:#A37800;
+  padding:2%;
+}
+.link{
+  text-decoration:none;
+  color:#A37800;
+  text-align:center;
+  font-family:arial;
+  width:100%;
+}
